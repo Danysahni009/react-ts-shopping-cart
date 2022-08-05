@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Mom's style Ajwaini Parantha",
+      "price": 10.99,
+      "imgUrl": "/imgs/Parantha.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Roasted Cereal -Wheat Jowar Bajra",
+      "price": 1199,
+      "imgUrl": "/imgs/bajra.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Roasted Cereal -Wheat Jowar Bajra",
+      "price": 1.05,
+      "imgUrl": "/imgs/bajra.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Roasted Cereal -Wheat Jowar Bajra",
+      "price": 14000,
+      "imgUrl": "/imgs/bajra.jpg"
+    }
+  ]
