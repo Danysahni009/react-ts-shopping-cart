@@ -5,4 +5,4 @@ then JUst
 -npm i 
 -npm run dev
 
-![[My Image](Capture dd.png)
+![[My Image](Capture dd.PNG)
